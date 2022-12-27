@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/booking_website_preview/static/css/main.6b88d558.css",
-    "main.js": "/booking_website_preview/static/js/main.3b60da1a.js",
+    "main.js": "/booking_website_preview/static/js/main.6f496314.js",
     "static/media/Mount_Pico_de_Loro.jpg": "/booking_website_preview/static/media/Mount_Pico_de_Loro.321bb78d52d5f74bddd6.jpg",
     "static/media/image3.jpg": "/booking_website_preview/static/media/image3.321bb78d52d5f74bddd6.jpg",
     "static/media/image1.jpg": "/booking_website_preview/static/media/image1.4930dd1085ad9bc15437.jpg",
@@ -10,10 +10,10 @@
     "static/media/PENRO_Logo-removebg.png": "/booking_website_preview/static/media/PENRO_Logo-removebg.26767a77d324705bcf79.png",
     "index.html": "/booking_website_preview/index.html",
     "main.6b88d558.css.map": "/booking_website_preview/static/css/main.6b88d558.css.map",
-    "main.3b60da1a.js.map": "/booking_website_preview/static/js/main.3b60da1a.js.map"
+    "main.6f496314.js.map": "/booking_website_preview/static/js/main.6f496314.js.map"
   },
   "entrypoints": [
     "static/css/main.6b88d558.css",
-    "static/js/main.3b60da1a.js"
+    "static/js/main.6f496314.js"
   ]
 }
